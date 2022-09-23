@@ -1,0 +1,6 @@
+Jose da Silva    3    Agronomia
+    1
+Juliana    1    Ciencia da Computacao
+    3 2
+Caio    2    Farmacia
+    1
